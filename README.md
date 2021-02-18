@@ -13,9 +13,11 @@ Lalu ada beberapa fitur yang digunakan :
 5. fitur transaksi
 6. fitur laporan
 7. fitur print, pdf, excel, csv menggunakan datatabels
-8. fitur menggunakan databales 
-9. fitur searching
-10. fitur filtering
+8. fitur table menggunakan datatables
+9. fitur menggunakan databales 
+10. fitur searching
+11. fitur filtering
+12. fitur pie chart pada halaman dashboard admin
 
 Untuk menggunakan database silahkan bisa menggunakan perintah berikut :
 1. php spark migrate
