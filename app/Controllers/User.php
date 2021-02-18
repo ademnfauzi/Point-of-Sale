@@ -127,7 +127,7 @@ class User extends BaseController
         //     'alamat' => $this->request->getVar('alamat'),
         // ]);
         session()->setFlashdata('pesan', 'Data berhasil diubah');
-        return redirect()->to('/pelanggan');
+        return redirect()->to('/user');
     }
 
     //--------------------------------------------------------------------
