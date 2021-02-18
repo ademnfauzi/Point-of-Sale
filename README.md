@@ -6,7 +6,7 @@ Aplikasi ini dibuat menggunakan :
 3. Fontawesome
 
 Lalu ada beberapa fitur yang digunakan :
-1. Manajemen User beserta hak akses
+1. Manajemen User beserta hak akses yaitu : admin, kasir, dan manajer
 2. Fitur data pelanggan
 3. Fitur data pemasok
 4. fitur data produk
