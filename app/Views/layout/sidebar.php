@@ -79,7 +79,7 @@
 
     <?php if (session('role') == 'Kasir') : ?>
         <li class="nav-item <?= ($title == 'Dashboard Kasir') ? 'active' : '';  ?>">
-            <a class="nav-link" href="/kasir.php">
+            <a class="nav-link" href="/kasir">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Dashboard</span></a>
         </li>
